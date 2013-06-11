@@ -16,7 +16,9 @@
 </v>
 <v t="rick.20130611193817.1602"><vh>Projects</vh></v>
 <v t="rick.20130611193817.1603" a="E"><vh>Learnings</vh>
-<v t="rick.20130611193817.1604"><vh>Did good</vh></v>
+<v t="rick.20130611193817.1604" a="E"><vh>Did good</vh>
+<v t="rick.20130611193817.1609"><vh>Documentation</vh></v>
+</v>
 <v t="rick.20130611193817.1605"><vh>Would do different today</vh></v>
 </v>
 </vnodes>
@@ -36,5 +38,8 @@ Write in general.
 Learn from myself.
 
 Teach others.</t>
+<t tx="rick.20130611193817.1609">Some projects won't compile easily.
+
+Having a README has been helpful.</t>
 </tnodes>
 </leo_file>
